@@ -1,6 +1,6 @@
 <h3>Simulation</h3>
-<img src="./Assets/Capture1.png/>
-<img src="./Assets/Capture2.png/>
+<img src="./Assets/Capture1.png"/>
+<img src="./Assets/Capture2.png"/>
 <h3>Android App</h3>
 <table>
 	<tr>
